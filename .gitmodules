@@ -3,15 +3,15 @@
 	url = https://github.com/dapphub/ds-test
 [submodule "lib/dss-cdp-manager"]
 	path = lib/dss-cdp-manager
-	url = https://github.com/makerdao/dss-cdp-manager
+	url = https://github.com/MetricOneDev/dss-cdp-manager
 	branch = v1.2
 [submodule "lib/proxy-registry"]
 	path = lib/proxy-registry
-	url = https://github.com/makerdao/proxy-registry
-[submodule "lib/ds-weth"]
+	url = https://github.com/MetricOneDev/proxy-registry
+[submodule "lib/ds-wcoin"]
 	path = lib/ds-weth
-	url = https://github.com/dapphub/ds-weth
+	url = https://github.com/MetricOneDev/ds-wcoin
 [submodule "lib/dss-gem-joins"]
 	path = lib/dss-gem-joins
-	url = https://github.com/makerdao/dss-gem-joins
+	url = https://github.com/MetricOneDev/dss-gem-joins
 	branch = v1.2
