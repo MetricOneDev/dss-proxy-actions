@@ -9,7 +9,7 @@
 	path = lib/proxy-registry
 	url = https://github.com/MetricOneDev/proxy-registry
 [submodule "lib/ds-wcoin"]
-	path = lib/ds-weth
+	path = lib/ds-wcoin
 	url = https://github.com/MetricOneDev/ds-wcoin
 [submodule "lib/dss-gem-joins"]
 	path = lib/dss-gem-joins
